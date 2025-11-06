@@ -1,1 +1,10 @@
-# version-test
+{
+  "ios": {
+    "version": "2.0.0",
+    "buildNumber": 1
+  },
+  "android": {
+    "version": "2.0.0",
+    "versionCode": 1
+  }
+}
